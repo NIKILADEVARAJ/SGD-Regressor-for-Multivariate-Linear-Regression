@@ -24,7 +24,7 @@ Developed by: NIKILA D
 RegisterNumber:  212224230187
 */
 ```
-```
+```python
 import numpy as np
 from sklearn.datasets import fetch_california_housing
 from sklearn.linear_model import SGDRegressor
